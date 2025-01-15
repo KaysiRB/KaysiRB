@@ -34,8 +34,8 @@ J'aime créer des projets autour de la programmation, du design et de la cybers�
 ## 📫 Me contacter
 - 🌐 [Mon portfolio](https://tonportfolio.com) *(À ajouter si tu en as un)*.
 - ✉️ Email : [novakays59@gmail.com](mailto:novakays59@example.com)
-- 🐦 Twitter : [@tonpseudo](https://twitter.com/tonpseudo)
-- 🎥 YouTube : [Nova Channel](https://youtube.com)
+- 🐦 Twitter : [@SwAwOwL](https://twitter.com/SwAwOwL)
+- 🎥 Discord : [nova.ot.](discordapp.com/users/770054458691420200)
 
 ---
 
