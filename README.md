@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Ton Nom]!
+# 👋 Hello, I'm Nova!
 
 Bienvenue sur mon profil GitHub ! 🚀  
 Je suis un **développeur passionné**, actuellement en **première CIEL (Cybersécurité Informatique et Electronique)**.  
@@ -26,14 +26,14 @@ J'aime créer des projets autour de la programmation, du design et de la cybers�
 
 ## 🌟 Projets récents
 - 🛠️ **Multitool Python** : Un outil puissant regroupant plusieurs fonctionnalités utiles.
-- 🛡️ **Application de messagerie Roblox** : Création d'une app où les contacts sont générés automatiquement.
-- 🎮 **Systèmes interactifs Roblox** : Création de menus de construction et de notifications universelles.
+- 🛡️ **Script & Executeur Roblox** : Création d'une app où les contacts sont générés automatiquement.
+- 🌐 **Site Web** : Création de sites -> multitool & outillage discord.
 
 ---
 
 ## 📫 Me contacter
 - 🌐 [Mon portfolio](https://tonportfolio.com) *(À ajouter si tu en as un)*.
-- ✉️ Email : [tonemail@example.com](mailto:tonemail@example.com)
+- ✉️ Email : [novakays@gmail.com](mailto:tonemail@example.com)
 - 🐦 Twitter : [@tonpseudo](https://twitter.com/tonpseudo)
 - 🎥 YouTube : [Nova Channel](https://youtube.com)
 
