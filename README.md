@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nova!
+# 👋 Bonjour, Je suis Nova!
 
 Bienvenue sur mon profil GitHub ! 🚀  
 Je suis un **développeur passionné**, actuellement en **première CIEL (Cybersécurité Informatique et Electronique)**.  
