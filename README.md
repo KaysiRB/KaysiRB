@@ -8,7 +8,7 @@ J'aime créer des projets autour de la programmation, du design et de la cybers�
 
 ## 🚀 À propos de moi
 - 🎓 Étudiant en **Cybersécurité et Informatique**.
-- 🔧 Expérience avec des projets variés en **Python**, **Roblox Studio** (Lua), et **Web Development**.
+- 🔧 Expérience avec des projets variés en **Python**, **Jeu** (Lua), et **Web Development**.
 - 🎮 Créateur d'applications, de scripts et de designs interactifs.
 - 🌱 En apprentissage constant pour améliorer mes compétences en **sécurité informatique** et **automatisation**.
 
@@ -26,22 +26,21 @@ J'aime créer des projets autour de la programmation, du design et de la cybers�
 
 ## 🌟 Projets récents
 - 🛠️ **Multitool Python** : Un outil puissant regroupant plusieurs fonctionnalités utiles.
-- 🛡️ **Script & Executeur Roblox** : Création d'une app où les contacts sont générés automatiquement.
-- 🌐 **Site Web** : Création de sites -> multitool & outillage discord.
+- 🌐 **Site Web** : Création de sites -> multitool, portofolio & outillage discord.
 
 ---
 
 ## 📫 Me contacter
-- 🌐 [Mon portfolio](https://tonportfolio.com) *(À ajouter si tu en as un)*.
-- ✉️ Email : [novakays59@gmail.com](mailto:novakays59@example.com)
+- 🌐 [Mon portfolio](https://novaot.vercel.app) *(À ajouter si tu en as un)*.
+- ✉️ Email : [novakays59@gmail.com](mailto:novakays59@gmail.com)
 - 🐦 Twitter : [@SwAwOwL](https://twitter.com/SwAwOwL)
 - 🎥 Discord : [nova.ot.](https://discord.com/users/770054458691420200)
 
 ---
 
 ## 🎯 Objectifs pour 2025
-- 🚀 Lancer un projet open-source majeur.
-- 📚 Améliorer mes compétences en cybersécurité avancée.
+- 🚀 Lancer un projet open-source.
+- 📚 Améliorer mes compétences en cybersécurité.
 - 💡 Partager plus de connaissances avec la communauté.
 
 Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à collaborer avec moi. 😄
