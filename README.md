@@ -31,7 +31,7 @@ J'aime créer des projets autour de la programmation, du design et de la cybers�
 ---
 
 ## 📫 Me contacter
-- 🌐 [Mon portfolio](https://novaot.vercel.app) *(À ajouter si tu en as un)*.
+- 🌐 Portfolio : [Mon portfolio](https://novaot.vercel.app) 
 - ✉️ Email : [novakays59@gmail.com](mailto:novakays59@gmail.com)
 - 🐦 Twitter : [@SwAwOwL](https://twitter.com/SwAwOwL)
 - 🎥 Discord : [nova.ot.](https://discord.com/users/770054458691420200)
