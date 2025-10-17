@@ -1,14 +1,14 @@
 # 👋 Bonjour, Je suis Nova!
 
 Bienvenue sur mon profil GitHub ! 🚀  
-Je suis un **développeur passionné**, actuellement en **première CIEL (Cybersécurité Informatique et Electronique)**.  
+Je suis un **développeur passionné**, actuellement en **terminal CIEL (Cybersécurité Informatique et Electronique)**.  
 J'aime créer des projets autour de la programmation, du design et de la cybersécurité.
 
 ---
 
 ## 🚀 À propos de moi
 - 🎓 Étudiant en **Cybersécurité et Informatique**.
-- 🔧 Expérience avec des projets variés en **Python**, **Jeu** (Lua), et **Web Development**.
+- 🔧 Expérience avec des projets variés en **Python**, **Jeu** (Lua / Python), et **Web Development**.
 - 🎮 Créateur d'applications, de scripts et de designs interactifs.
 - 🌱 En apprentissage constant pour améliorer mes compétences en **sécurité informatique** et **automatisation**.
 
@@ -25,7 +25,7 @@ J'aime créer des projets autour de la programmation, du design et de la cybers�
 ---
 
 ## 🌟 Projets récents
-- 🛠️ **Multitool Python** : Un outil puissant regroupant plusieurs fonctionnalités utiles.
+- 🛠️ **Multitool Python** : Un outil puissant(dans mon reve :) ) regroupant plusieurs fonctionnalités utiles.
 - 🌐 **Site Web** : Création de sites -> multitool, portofolio & outillage discord.
 
 ---
